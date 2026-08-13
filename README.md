@@ -19,7 +19,7 @@ The purpose is to demonstrate how I approach debt capacity, downside resilience,
 ## Repository contents
 
 - [`model/Morrisons_Leveraged_Finance_Model.xlsx`](model/Morrisons_Leveraged_Finance_Model.xlsx) — formula-driven five-year base and downside model, debt schedule, liquidity analysis, debt capacity and checks.
-- [`report/Morrisons_Credit_Analysis_Report.pdf`](report/Morrisons_Credit_Analysis_Report.pdf) — two-page lender credit report.
+- [View the two-page lender credit report](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf) — opens the PDF directly in the browser.
 - [`METHODOLOGY.md`](METHODOLOGY.md) — transaction sizing, modelling logic and key limitations.
 - [`SOURCES.md`](SOURCES.md) — public sources and the facts taken from them.
 - [`DISCLAIMER.md`](DISCLAIMER.md) — scope and use restrictions.
