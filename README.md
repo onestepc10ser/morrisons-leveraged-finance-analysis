@@ -18,20 +18,12 @@ The purpose is to demonstrate how I approach debt capacity, downside resilience,
 
 ## Credit report
 
-[Open or download the searchable two-page PDF](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf)
-
-### Page 1
-
-![Morrisons lender credit report page 1](images/report_page_1.png)
-
-### Page 2
-
-![Morrisons lender credit report page 2](images/report_page_2.png)
+**[View the full two-page credit report](https://onestepc10ser.github.io/morrisons-leveraged-finance-analysis/report/Morrisons_Credit_Analysis_Report.pdf)**
 
 ## Repository contents
 
 - [`model/Morrisons_Leveraged_Finance_Model.xlsx`](model/Morrisons_Leveraged_Finance_Model.xlsx) — formula-driven five-year base and downside model, debt schedule, liquidity analysis, debt capacity and checks.
-- [Searchable two-page lender credit report](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf) — opens or downloads the PDF directly.
+- [Two-page lender credit report](https://onestepc10ser.github.io/morrisons-leveraged-finance-analysis/report/Morrisons_Credit_Analysis_Report.pdf) — opens in the browser through GitHub Pages.
 - [`METHODOLOGY.md`](METHODOLOGY.md) — transaction sizing, modelling logic and key limitations.
 - [`SOURCES.md`](SOURCES.md) — public sources and the facts taken from them.
 - [`DISCLAIMER.md`](DISCLAIMER.md) — scope and use restrictions.
