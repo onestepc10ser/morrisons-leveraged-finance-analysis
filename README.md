@@ -16,10 +16,22 @@ The purpose is to demonstrate how I approach debt capacity, downside resilience,
 - Downside RCF drawings reach **£448m**, leaving **£853m** of cash plus undrawn committed RCF at FY30E.
 - The proposed protections include 1% annual amortisation, an excess-cash-flow sweep, minimum liquidity, restricted-payment controls and a springing leverage covenant.
 
+## Credit report
+
+[Open or download the searchable two-page PDF](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf)
+
+### Page 1
+
+![Morrisons lender credit report page 1](images/report_page_1.png)
+
+### Page 2
+
+![Morrisons lender credit report page 2](images/report_page_2.png)
+
 ## Repository contents
 
 - [`model/Morrisons_Leveraged_Finance_Model.xlsx`](model/Morrisons_Leveraged_Finance_Model.xlsx) — formula-driven five-year base and downside model, debt schedule, liquidity analysis, debt capacity and checks.
-- [View the two-page lender credit report](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf) — opens the PDF directly in the browser.
+- [Searchable two-page lender credit report](https://raw.githubusercontent.com/onestepc10ser/morrisons-leveraged-finance-analysis/main/report/Morrisons_Credit_Analysis_Report.pdf) — opens or downloads the PDF directly.
 - [`METHODOLOGY.md`](METHODOLOGY.md) — transaction sizing, modelling logic and key limitations.
 - [`SOURCES.md`](SOURCES.md) — public sources and the facts taken from them.
 - [`DISCLAIMER.md`](DISCLAIMER.md) — scope and use restrictions.
