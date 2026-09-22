@@ -1,0 +1,27 @@
+# Operating system files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+desktop.ini
+
+# Office locks, temporary exports and working files
+~$*
+.~lock.*#
+*.tmp
+*.bak
+*.swp
+*.inspect.ndjson
+work/
+tmp/
+
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+
+# Private preparation materials
+06_QA/
+*Interview_Guide*
+*CV_Wording*
